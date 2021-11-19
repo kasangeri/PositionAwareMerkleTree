@@ -14,5 +14,5 @@ Operations proposed
 
 
 How does this provide Public verifiability?
-Further Algorithms will be explained
+Further Algorithms needs be explained
 
